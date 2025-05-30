@@ -1,7 +1,7 @@
-- Name: Trent Trombley
-- Username: @ttrombley
-- Email: trent.trombley@augie.edu
-- Title: Assistant Professor of Anthropology, Augustana University
+- **Name**: Trent Trombley
+- **Username**: @ttrombley
+- **Email**: trent.trombley@augie.edu
+- **Title**: Assistant Professor of Anthropology, Augustana University
 
 <!---
 ttrombley/ttrombley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
